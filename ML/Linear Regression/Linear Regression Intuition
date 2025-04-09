@@ -1,0 +1,26 @@
+HYPOTHESIS: y = mx + c
+              
+                  y <-- expected result
+                  x <-- given input
+                  
+At the time of training
+
+    known parameters are: " y " and " x "
+    
+    unknown parameters are : " m " and " c "
+                            
+                                m <-- slope / gradient
+                                c <-- y=intercept
+                                
+TARGET: To have best fit line.
+                    
+                    Best fit line will predict the output with least error
+                    
+                    
+                    
+                    
+                    
+STEPS INVOLVED 
+    1. FORWARD PROPOGATION
+    2. COST FUNCTION
+    3. GRADIENT DESCENT

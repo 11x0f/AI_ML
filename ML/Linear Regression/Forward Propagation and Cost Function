@@ -1,0 +1,12 @@
+
+STEP 1: FORWARD PROPAGATION
+        
+            y = mx + c
+            
+STEP 2: COST FUNCTION
+            
+            ERROR = sumaation i:1->n { [ ( y_predicted - y_actual )^2 ] }  / 2n   
+                            
+                            
+                            n <-- no of instances
+                            

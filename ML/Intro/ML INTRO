@@ -1,0 +1,28 @@
+MACHINE LEARNING : 
+    Ability of Algorithm to learn from data.
+    Unlike conventional programming logic will not be provided.
+    We provide input images and output "Labels", then allow the machine to comeup with proper logic.
+    
+    
+DATA AND TERMINOLOGY:
+
+    x_train
+    y_train
+    
+    x_test
+    y_test
+
+    DATA ==> (applied for a purpose) ==> INFORMATION ==> ( build and process) ==> KNOWLEDGE
+    
+TYPES OF DATA:
+    1. Nominal Data(CategoricaL) : labeled data with no ordering(no priority).
+     
+    2. Ordinal Data : labelled data with ordering but no relative interval difference between those data. 
+     
+    3. Interval Data :
+
+    4. Binomial/binary data
+    
+    5. Time
+    
+    6.

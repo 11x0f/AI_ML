@@ -1,0 +1,37 @@
+A machine is said to be learning from past experience(data fed in) with respect to some class of tasks, if its performance in a given task impoves with experience.
+
+LABELLED DATASET: is one which have both input and output parameters.
+
+
+1. SUPERVISED LEARNING
+    Model is trained of a labelled dataset
+    Based on type of output parameters supervised learning is divided into two:
+    
+        a. Classification (defined labels): Discrete data ( 0 or 1)
+
+        b. Regression (no labels defined): Continious parameter in the given range
+        
+        
+        
+2. UN-SUPERVISED LEARNING
+    In this learning we dont give target to our model while training.
+    Training model is given only input parameters.
+    Model byitself has to find a way to learn
+    Two types:
+    
+        a. Clustering: applied to group data based on different property which the machine model finds.
+        
+        b. Assosication: algorithms tries to find useful relations between parameters 
+        
+        
+3. SEMI-SUPERVISED LEARNING
+    Dataset will be little bit labelled and largely un-labelled data.
+    Hence we use un-supervised learning to find labels then feed those to supervised learning 
+    Mostly applicable to image dataset were usually all datasets are not labelled.
+    
+    
+4. REINFORCEMENT LEARNING
+    Model keeps on increasing its performance using reward-feedback to learn the behaviour or pattern
+    Agents observe input
+    Agents perform action by some decision
+    After its performance, agent receives reward and accordingly reinforce and the model stores in state action-action pair of information.
