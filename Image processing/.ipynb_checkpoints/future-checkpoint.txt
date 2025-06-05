@@ -1,0 +1,2 @@
+add watermark
+add credentials and move it in random direction
